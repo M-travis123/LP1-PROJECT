@@ -53,6 +53,6 @@ Visualisation
 
 5.Challenges: Opaque reporting poses challenges in precisely gauging funding trends. Strategic planning and diversification of funding sources are recommended for sustainable growth.
 
-#Author
+# Author
 
 Monica Nyambura & Team Paragon
